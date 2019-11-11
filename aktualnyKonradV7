@@ -290,6 +290,7 @@ echo Krzyknę, żeś Ty nie ojcem świata, ale… >> "C:\Users\Dom\Downloads\tes
 cls
 goto start
 :start
+cls
 echo Znaleziono, uwaga uwaga...  
 for /f  %%C in ('find /V /C "" ^< "C:\Users\Dom\Downloads\test.txt"') do set konradowe=%%C    
 set /a random_number=%RANDOM% * lines / 32768 + 1, skiplines=random_number-1
@@ -328,6 +329,7 @@ echo ~~~~~~~~~~~~~~~~~~~~~~~~~
 Echo=%randline%
 echo ~~~~~~~~~~~~~~~~~~~~~~~~~
 pause
+goto gatewayKonrad
 :SetRand
 Set/A "rand=(%RANDOM%%%total)+1"
 Call Set "randline=%%line[%rand%]%%"
