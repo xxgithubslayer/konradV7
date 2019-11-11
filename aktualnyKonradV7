@@ -1,304 +1,306 @@
 @echo off
 CHCP 65001
 color 2
-echo Samotność — cóż po ludziach, czy-m śpiewak dla ludzi? > C:\Users\Dom\Downloads\test.txt"
-echo Gdzie człowiek, co z mej pieśni całą myśl wysłucha, >> "C:\Users\Dom\Downloads\test.txt"
-echo Obejmie okiem wszystkie promienie jej ducha? >> "C:\Users\Dom\Downloads\test.txt"
-echo Nieszczęsny, kto dla ludzi głos i język trudzi: >> "C:\Users\Dom\Downloads\test.txt"
-echo Język kłamie głosowi, a głos myślom kłamie; >> "C:\Users\Dom\Downloads\test.txt"
-echo Myśl z duszy leci bystro, nim się w słowach złamie, >> "C:\Users\Dom\Downloads\test.txt
-echo A słowa myśl pochłoną i tak drżą nad myślą, >> "C:\Users\Dom\Downloads\test.txt
-echo Jak ziemia nad połkniętą, niewidzialną rzeką. >> "C:\Users\Dom\Downloads\test.txt
-echo Z drżenia ziemi czyż ludzie głąb nurtów docieką. >> "C:\Users\Dom\Downloads\test.txt
-echo Gdzie pędzi, czy się domyślą? — >> "C:\Users\Dom\Downloads\test.txt 
-echo Uczucie krąży w duszy, rozpala się, żarzy, >> "C:\Users\Dom\Downloads\test.txt
-echo Jak krew po swych głębokich, niewidomych cieśniach; >> "C:\Users\Dom\Downloads\test.txt
-echo Ile krwi tylko ludzie widzą w mojej twarzy, >> "C:\Users\Dom\Downloads\test.txt
-echo Tyle tylko z mych uczuć dostrzegą w mych pieśniach. >> "C:\Users\Dom\Downloads\test.txt
-echo Pieśni ma, tyś jest gwiazdą za granicą świata! >> "C:\Users\Dom\Downloads\test.txt
-echo I wzrok ziemski, do ciebie wysłany za gońca, >> "C:\Users\Dom\Downloads\test.txt
-echo Choć szklanne weźmie skrzydła, ciebie nie dolata, >> "C:\Users\Dom\Downloads\test.txt
-echo Tylko o twoję mleczną drogę się uderzy; >> "C:\Users\Dom\Downloads\test.txt
-echo Domyśla się, że to słońca, >> "C:\Users\Dom\Downloads\test.txt
-echo Lecz ich nie zliczy, nie zmierzy. >> "C:\Users\Dom\Downloads\test.txt
-echo Wam, pieśni, ludzkie oczy, uszy, niepotrzebne; — >> "C:\Users\Dom\Downloads\test.txt
-echo Płyńcie w duszy mej wnętrznościach, >> "C:\Users\Dom\Downloads\test.txt
-echo Świećcie na jej wysokościach, >> "C:\Users\Dom\Downloads\test.txt
-echo Jak strumienie podziemne, jak gwiazdy nadniebne. >> "C:\Users\Dom\Downloads\test.txt
-echo Ty Boże, ty naturo! dajcie posłuchanie. — >> "C:\Users\Dom\Downloads\test.txt
-echo Godna to was muzyka i godne śpiewanie. — >> "C:\Users\Dom\Downloads\test.txt
-echo Ja mistrz! >> "C:\Users\Dom\Downloads\test.txt
-echo Ja mistrz wyciągam dłonie! >> "C:\Users\Dom\Downloads\test.txt
-echo Wyciągam aż w niebiosa i kładę me dłonie >> "C:\Users\Dom\Downloads\test.txt
-echo Na gwiazdach jak na szklannych harmoniki kręgach. >> "C:\Users\Dom\Downloads\test.txt
-echo To nagłym, to wolnym ruchem, >> "C:\Users\Dom\Downloads\test.txt
-echo Kręcę gwiazdy moim duchem. >> "C:\Users\Dom\Downloads\test.txt
-echo Milĳon tonów płynie; w tonów milĳonie >> "C:\Users\Dom\Downloads\test.txt
-echo Każdy ton ja dobyłem, wiem o każdym tonie; >> "C:\Users\Dom\Downloads\test.txt
-echo Zgadzam je, dzielę i łączę, >> "C:\Users\Dom\Downloads\test.txt
-echo I w tęcze, i w akordy, i we strofy plączę, >> "C:\Users\Dom\Downloads\test.txt
-echo Rozlewam je we dźwiękach i w błyskawic wstęgach. — >> "C:\Users\Dom\Downloads\test.txt
-echo Odjąłem ręce, wzniosłem nad świata krawędzie, >> "C:\Users\Dom\Downloads\test.txt
-echo I kręgi harmoniki wstrzymały się w pędzie. >> "C:\Users\Dom\Downloads\test.txt
-echo Sam śpiewam, słyszę me śpiewy — >> "C:\Users\Dom\Downloads\test.txt
-echo Długie, przeciągłe jak wichru powiewy, >> "C:\Users\Dom\Downloads\test.txt
-echo Przewiewają ludzkiego rodu całe tonie, >> "C:\Users\Dom\Downloads\test.txt
-echo Jęczą żalem, ryczą burzą, >> "C:\Users\Dom\Downloads\test.txt
-echo I wieki im głucho wtórzą; >> "C:\Users\Dom\Downloads\test.txt
-echo A każdy dźwięk ten razem gra i płonie, >> "C:\Users\Dom\Downloads\test.txt
-echo Mam go w uchu, mam go w oku, >> "C:\Users\Dom\Downloads\test.txt
-echo Jak wiatr, gdy fale kołysze, >> "C:\Users\Dom\Downloads\test.txt
-echo Po świstach lot jego słyszę, >> "C:\Users\Dom\Downloads\test.txt
-echo Widzę go w szacie obłoku. >> "C:\Users\Dom\Downloads\test.txt
-echo Boga, natury godne takie pienie!  >> "C:\Users\Dom\Downloads\test.txt
-echo Pieśń to wielka, pieśń-tworzenie. >> "C:\Users\Dom\Downloads\test.txt
-echo Taka pieśń jest siła, dzielność, >> "C:\Users\Dom\Downloads\test.txt
-echo Taka pieśń jest nieśmiertelność! >> "C:\Users\Dom\Downloads\test.txt
-echo Ja czuję nieśmiertelność, nieśmiertelność tworzę, >> "C:\Users\Dom\Downloads\test.txt
-echo Cóż Ty większego mogłeś zrobić — Boże? >> "C:\Users\Dom\Downloads\test.txt
-echo Patrz, jak te myśli dobywam sam z siebie, >> "C:\Users\Dom\Downloads\test.txt
-echo Wcielam w słowa, one lecą, >> "C:\Users\Dom\Downloads\test.txt
-echo Rozsypują się po niebie, >> "C:\Users\Dom\Downloads\test.txt
-echo Toczą się, grają i świecą; >> "C:\Users\Dom\Downloads\test.txt
-echo Już dalekie, czuję jeszcze, >> "C:\Users\Dom\Downloads\test.txt
-echo Ich wdziękami się lubuję, >> "C:\Users\Dom\Downloads\test.txt
-echo Ich okrągłość dłonią czuję, >> "C:\Users\Dom\Downloads\test.txt
-echo Ich ruch myślą odgaduję: >> "C:\Users\Dom\Downloads\test.txt
-echo Kocham was, me dzieci wieszcze! >> "C:\Users\Dom\Downloads\test.txt
-echo Myśli moje! gwiazdy moje! >> "C:\Users\Dom\Downloads\test.txt
-echo Czucia moje! wichry moje! >> "C:\Users\Dom\Downloads\test.txt
-echo W pośrodku was jak ojciec wśród rodziny stoję, >> "C:\Users\Dom\Downloads\test.txt
-echo Wy wszystkie moje! >> "C:\Users\Dom\Downloads\test.txt
-echo Depcę was, wszyscy poeci, >> "C:\Users\Dom\Downloads\test.txt
-echo Wszyscy mędrce i proroki, >> "C:\Users\Dom\Downloads\test.txt
-echo Których wielbił świat szeroki. >> "C:\Users\Dom\Downloads\test.txt
-echo Gdyby chodzili dotąd śród swych dusznych dzieci, >> "C:\Users\Dom\Downloads\test.txt
-echo Gdyby wszystkie pochwały i wszystkie oklaski >> "C:\Users\Dom\Downloads\test.txt
-echo Słyszeli, czuli i za słuszne znali, >> "C:\Users\Dom\Downloads\test.txt
-echo I wszystkie sławy każdodziennej blaski >> "C:\Users\Dom\Downloads\test.txt
-echo Promieniami na wieńcach swoich zapalali; >> "C:\Users\Dom\Downloads\test.txt
-echo Z całą pochwał muzyką i wieńców ozdobą, >> "C:\Users\Dom\Downloads\test.txt
-echo Zebraną z wieków tyla i z pokoleń tyla, >> "C:\Users\Dom\Downloads\test.txt
-echo Nie czuliby własnego szczęścia, własnej mocy >> "C:\Users\Dom\Downloads\test.txt
-echo Jak ja dziś czuję w tej samotnej nocy: >> "C:\Users\Dom\Downloads\test.txt
-echo Kiedy sam śpiewam w sobie, >> "C:\Users\Dom\Downloads\test.txt
-echo Śpiewam samemu sobie. >> "C:\Users\Dom\Downloads\test.txt
-echo Tak! — czuły jestem, silny jestem i rozumny. — >> "C:\Users\Dom\Downloads\test.txt
-echo Nigdym nie czuł, jak w tej chwili — >> "C:\Users\Dom\Downloads\test.txt
-echo dziś mój zenit, moc moja dzisiaj się przesili, >> "C:\Users\Dom\Downloads\test.txt
-echo dziś poznam, czym najwyższy, czylim tylko dumny; >> "C:\Users\Dom\Downloads\test.txt
-echo dziś jest chwila przeznaczona, >> "C:\Users\Dom\Downloads\test.txt
-echo dziś najsilniej wytężę duszy mej ramiona — >> "C:\Users\Dom\Downloads\test.txt
-echo To jest chwila Samsona, >> "C:\Users\Dom\Downloads\test.txt
-echo Kiedy więzień i ślepy dumał u kolumny. >> "C:\Users\Dom\Downloads\test.txt
-echo Zrzucę ciało i tylko jak duch wezmę pióra — >> "C:\Users\Dom\Downloads\test.txt
-echo Potrzeba mi lotu, >> "C:\Users\Dom\Downloads\test.txt
-echo Wylecę z planet i gwiazd kołowrotu, >> "C:\Users\Dom\Downloads\test.txt
-echo Tam dojdę, gdzie graniczą Stwórca i natura.  >> "C:\Users\Dom\Downloads\test.txt
-echo I mam je, mam je, mam — tych skrzydeł dwoje; >> "C:\Users\Dom\Downloads\test.txt
-echo Wystarczą: — od zachodu na wschód je rozszerzę, >> "C:\Users\Dom\Downloads\test.txt
-echo Lewym o przeszłość, prawym o przyszłość uderzę. >> "C:\Users\Dom\Downloads\test.txt
-echo I dojdę po promieniach uczucia — do Ciebie! >> "C:\Users\Dom\Downloads\test.txt
-echo I zajrzę w uczucia Twoje, >> "C:\Users\Dom\Downloads\test.txt
-echo O Ty! o którym mówią, że czujesz na niebie! >> "C:\Users\Dom\Downloads\test.txt
-echo Jam tu, jam przybył, widzisz, jaka ma potęga! >> "C:\Users\Dom\Downloads\test.txt
-echo Aż tu moje skrzydło sięga. >> "C:\Users\Dom\Downloads\test.txt
-echo Lecz jestem człowiek, i tam, na ziemi me ciało; >> "C:\Users\Dom\Downloads\test.txt
-echo Kochałem tam, w ojczyźnie serce me zostało — >> "C:\Users\Dom\Downloads\test.txt
-echo Ale ta miłość moja na świecie, >> "C:\Users\Dom\Downloads\test.txt
-echo Ta miłość nie na jednym spoczęła człowieku >> "C:\Users\Dom\Downloads\test.txt
-echo Jak owad na róży kwiecie: >> "C:\Users\Dom\Downloads\test.txt
-echo Nie na jednej rodzinie, nie na jednym wieku. >> "C:\Users\Dom\Downloads\test.txt
-echo Ja kocham cały naród! — objąłem w ramiona >> "C:\Users\Dom\Downloads\test.txt
-echo Wszystkie przeszłe i przyszłe jego pokolenia, >> "C:\Users\Dom\Downloads\test.txt
-echo Przycisnąłem tu do łona, >> "C:\Users\Dom\Downloads\test.txt
-echo Jak przyjaciel, kochanek, małżonek, jak ojciec: >> "C:\Users\Dom\Downloads\test.txt
-echo Chcę go dźwignąć, uszczęśliwić, >> "C:\Users\Dom\Downloads\test.txt
-echo Chcę nim cały świat zadziwić, >> "C:\Users\Dom\Downloads\test.txt
-echo Nie mam sposobu i tu przyszedłem go dociec. >> "C:\Users\Dom\Downloads\test.txt
-echo Przyszedłem zbrojny całą myśli władzą, >> "C:\Users\Dom\Downloads\test.txt
-echo Tej myśli, co niebiosom Twe gromy wydarła, >> "C:\Users\Dom\Downloads\test.txt
-echo Śledziła chód Twych planet, głąb morza rozwarła—  >> "C:\Users\Dom\Downloads\test.txt
-echo Mam więcej, tę Moc, której ludzie nie nadadzą, >> "C:\Users\Dom\Downloads\test.txt
-echo Mam to uczucie, co się samo w sobie chowa >> "C:\Users\Dom\Downloads\test.txt
-echo Jak wulkan, tylko dymi niekiedy przez słowa. >> "C:\Users\Dom\Downloads\test.txt
-echo I Mocy tej nie wziąłem z drzewa edeńskiego, >> "C:\Users\Dom\Downloads\test.txt
-echo Z owocu wiadomości złego i dobrego; >> "C:\Users\Dom\Downloads\test.txt
-echo Nie z ksiąg ani z opowiadań, >> "C:\Users\Dom\Downloads\test.txt
-echo Ani z rozwiązania zadań, >> "C:\Users\Dom\Downloads\test.txt
-echo Ani z czarodziejskich badań. >> "C:\Users\Dom\Downloads\test.txt
-echo Jam się twórcą urodził: >> "C:\Users\Dom\Downloads\test.txt
-echo Stamtąd przyszły siły moje, >> "C:\Users\Dom\Downloads\test.txt
-echo Skąd do Ciebie przyszły Twoje, >> "C:\Users\Dom\Downloads\test.txt
-echo Boś i Ty po nie nie chodził: >> "C:\Users\Dom\Downloads\test.txt
-echo Masz, nie boisz się stracić; i ja się nie boję. >> "C:\Users\Dom\Downloads\test.txt
-echo Czyś Ty mi dał, czy wziąłem, skąd i Ty masz — oko >> "C:\Users\Dom\Downloads\test.txt
-echo Bystre, potężne: w chwilach mej siły — wysoko >> "C:\Users\Dom\Downloads\test.txt
-echo Kiedy na chmur spojrzę szlaki >> "C:\Users\Dom\Downloads\test.txt
-echo I wędrowne słyszę ptaki, >> "C:\Users\Dom\Downloads\test.txt
-echo Żeglujące na ledwie dostrzeżonym skrzydle; >> "C:\Users\Dom\Downloads\test.txt
-echo Zechcę i wnet je okiem zatrzymam jak w sidle — >> "C:\Users\Dom\Downloads\test.txt
-echo Stado pieśń żałosną dzwoni, >> "C:\Users\Dom\Downloads\test.txt
-echo Lecz póki ich nie puszczę, Twój wiatr ich nie zgoni. >> "C:\Users\Dom\Downloads\test.txt
-echo Kiedy spojrzę w kometę z całą mocą duszy, >> "C:\Users\Dom\Downloads\test.txt
-echo Dopóki na nią patrzę, z miejsca się nie ruszy. >> "C:\Users\Dom\Downloads\test.txt
-echo Tylko ludzie skazitelni, >> "C:\Users\Dom\Downloads\test.txt
-echo Marni, ale nieśmiertelni, >> "C:\Users\Dom\Downloads\test.txt
-echo Nie służą mi, nie znają — nie znają nas obu, >> "C:\Users\Dom\Downloads\test.txt
-echo Mnie i Ciebie. >> "C:\Users\Dom\Downloads\test.txt
-echo Ja na nich szukam sposobu >> "C:\Users\Dom\Downloads\test.txt
-echo Tu, w niebie. >> "C:\Users\Dom\Downloads\test.txt 
-echo Tę władzę, którą mam nad przyrodzeniem, >> "C:\Users\Dom\Downloads\test.txt
-echo Chcę wywrzeć na ludzkie dusze, >> "C:\Users\Dom\Downloads\test.txt
-echo Jak ptaki i jak gwiazdy rządzę mym skinieniem, >> "C:\Users\Dom\Downloads\test.txt
-echo Tak bliźnich rozrządzać muszę. >> "C:\Users\Dom\Downloads\test.txt
-echo Nie bronią — broń broń odbĳe, >> "C:\Users\Dom\Downloads\test.txt
-echo Nie pieśniami — długo rosną, >> "C:\Users\Dom\Downloads\test.txt
-echo Nie nauką — prędko gnĳe, >> "C:\Users\Dom\Downloads\test.txt
-echo Nie cudami — to zbyt głośno. >> "C:\Users\Dom\Downloads\test.txt
-echo Chcę czuciem rządzić, które jest we mnie; >> "C:\Users\Dom\Downloads\test.txt
-echo Rządzić jak Ty wszystkimi zawsze i tajemnie: — >> "C:\Users\Dom\Downloads\test.txt
-echo Co ja zechcę, niech wnet zgadną, >> "C:\Users\Dom\Downloads\test.txt
-echo Spełnią, tym się uszczęśliwią, >> "C:\Users\Dom\Downloads\test.txt
-echo A jeżeli się sprzeciwią, >> "C:\Users\Dom\Downloads\test.txt
-echo Niechaj cierpią i przepadną. >> "C:\Users\Dom\Downloads\test.txt
-echo Niech ludzie będą dla mnie jak myśli i słowa, >> "C:\Users\Dom\Downloads\test.txt 
-echo Z których, gdy zechcę, pieśni wiąże się budowa; —  >> "C:\Users\Dom\Downloads\test.txt
-echo Mówią, że Ty tak władasz! >> "C:\Users\Dom\Downloads\test.txt
-echo Wiesz, żem myśli nie popsuł, mowy nie umorzył; >> "C:\Users\Dom\Downloads\test.txt
-echo Jeśli mnie nad duszami równą władzę nadasz, >> "C:\Users\Dom\Downloads\test.txt
-echo Ja bym mój naród jak pieśń żywą stworzył, >> "C:\Users\Dom\Downloads\test.txt
-echo I większe niżli Ty zrobiłbym dziwo, >> "C:\Users\Dom\Downloads\test.txt
-echo Zanuciłbym pieśń szczęśliwą! >> "C:\Users\Dom\Downloads\test.txt 
-echo Daj mi rząd dusz! — Tak gardzę tą martwą budową,  >> "C:\Users\Dom\Downloads\test.txt
-echo Która gmin światem zowie i przywykł ją chwalić, >> "C:\Users\Dom\Downloads\test.txt 
-echo Żem nie próbował dotąd, czyli moje słowo  >> "C:\Users\Dom\Downloads\test.txt
-echo Nie mogłoby jej wnet zwalić. >> "C:\Users\Dom\Downloads\test.txt
-echo Lecz czuję w sobie, że gdybym mą wolę >> "C:\Users\Dom\Downloads\test.txt
-echo Ścisnął, natężył i razem wyświecił, >> "C:\Users\Dom\Downloads\test.txt
-echo Może bym sto gwiazd zgasił, a drugie sto wzniecił — >> "C:\Users\Dom\Downloads\test.txt 
-echo Bo jestem nieśmiertelny! i w stworzenia kole >> "C:\Users\Dom\Downloads\test.txt
-echo Są inni nieśmiertelni; — wyższych nie spotkałem — >> "C:\Users\Dom\Downloads\test.txt
-echo Najwyższy na niebiosach! — Ciebie tu szukałem, >> "C:\Users\Dom\Downloads\test.txt
-echo Ja najwyższy z czujących na ziemnym padole. >> "C:\Users\Dom\Downloads\test.txt
-echo Nie spotkałem Cię dotąd — żeś Ty jest, zgaduję; >> "C:\Users\Dom\Downloads\test.txt
-echo Niech Cię spotkam i niechaj Twą wyższość uczuję — >> "C:\Users\Dom\Downloads\test.txt 
-echo Ja chcę władzy, daj mi ją, lub wskaż do niej drogę! >> "C:\Users\Dom\Downloads\test.txt
-echo O prorokach, dusz władcach, że byli, słyszałem, >> "C:\Users\Dom\Downloads\test.txt
-echo I wierzę; lecz co oni mogli, to ja mogę, >> "C:\Users\Dom\Downloads\test.txt
-echo Ja chcę mieć władzę, jaką Ty posiadasz, >> "C:\Users\Dom\Downloads\test.txt
-echo Ja chcę duszami władać, jak Ty nimi władasz. >> "C:\Users\Dom\Downloads\test.txt
-echo Milczysz, milczysz! wiem teraz, jam Cię teraz zbadał, >> "C:\Users\Dom\Downloads\test.txt
-echo Zrozumiałem, coś Ty jest i jakeś Ty władał. — >> "C:\Users\Dom\Downloads\test.txt
-echo Kłamca, kto Ciebie nazywał miłością, >> "C:\Users\Dom\Downloads\test.txt
-echo Ty jesteś tylko mądrością. >> "C:\Users\Dom\Downloads\test.txt
-echo Ludzie myślą, nie sercem, Twych dróg się dowiedzą; >> "C:\Users\Dom\Downloads\test.txt
-echo Myślą, nie sercem, składy broni Twej wyśledzą — >> "C:\Users\Dom\Downloads\test.txt
-echo Ten tylko, kto się wrył w księgi,  >> "C:\Users\Dom\Downloads\test.txt
-echo W metal, w liczbę, w trupie ciało, >> "C:\Users\Dom\Downloads\test.txt
-echo Temu się tylko udało >> "C:\Users\Dom\Downloads\test.txt
-echo Przywłaszczyć część Twej potęgi. >> "C:\Users\Dom\Downloads\test.txt
-echo Znajdzie truciznę, proch, parę, >> "C:\Users\Dom\Downloads\test.txt
-echo Znajdzie blaski, dymy, huki, >> "C:\Users\Dom\Downloads\test.txt
-echo Znajdzie prawność, i złą wiarę >> "C:\Users\Dom\Downloads\test.txt 
-echo Na mędrki i na nieuki. >> "C:\Users\Dom\Downloads\test.txt
-echo Myślom oddałeś świata użycie, >> "C:\Users\Dom\Downloads\test.txt
-echo Serca zostawiasz na wiecznej pokucie, >> "C:\Users\Dom\Downloads\test.txt
-echo Dałeś mnie najkrótsze życie >> "C:\Users\Dom\Downloads\test.txt
-echo I najmocniejsze uczucie. — >> "C:\Users\Dom\Downloads\test.txt
-echo Czym jest me czucie? >> "C:\Users\Dom\Downloads\test.txt 
-echo Ach, iskrą tylko!  >> "C:\Users\Dom\Downloads\test.txt
-echo Czym jest me życie? >> "C:\Users\Dom\Downloads\test.txt
-echo Ach, jedną chwilką! >> "C:\Users\Dom\Downloads\test.txt
-echo Lecz te, co jutro rykną, czym są dzisiaj gromy? >> "C:\Users\Dom\Downloads\test.txt
-echo Iskrą tylko. >> "C:\Users\Dom\Downloads\test.txt
-echo Czym jest wieków ciąg cały, mnie z dziejów wiadomy?  >> "C:\Users\Dom\Downloads\test.txt
-echo Jedną chwilką. >> "C:\Users\Dom\Downloads\test.txt
-echo Z czego wychodzi cały człowiek, mały światek? >> "C:\Users\Dom\Downloads\test.txt
-echo Z iskry tylko. >> "C:\Users\Dom\Downloads\test.txt
-echo Czym jest śmierć, co rozprószy myśli mych dostatek? >> "C:\Users\Dom\Downloads\test.txt
-echo Jedną chwilką. >> "C:\Users\Dom\Downloads\test.txt
-echo Czym był On, póki światy trzymał w swoim łonie? Brat >> "C:\Users\Dom\Downloads\test.txt
-echo Iskrą tylko. >> "C:\Users\Dom\Downloads\test.txt
-echo Czym będzie wieczność świata, gdy On go pochłoni >> "C:\Users\Dom\Downloads\test.txt
-echo Jedną chwilką. >> "C:\Users\Dom\Downloads\test.txt
-echo Chwila i iskra, gdy się przedłuża, rozpala — >> "C:\Users\Dom\Downloads\test.txt
-echo Stwarza i zwala. >> "C:\Users\Dom\Downloads\test.txt
-echo Śmiało, śmiało! tę chwilę rozdłużmy, rozdalmy, >> "C:\Users\Dom\Downloads\test.txt
-echo Śmiało, śmiało! tę iskrę rozniećmy, rozpalmy — >> "C:\Users\Dom\Downloads\test.txt
-echo Teraz — dobrze — tak. Jeszcze raz Ciebie wyzywam, >> "C:\Users\Dom\Downloads\test.txt
-echo Jeszcze po przyjacielsku duszę Ci odkrywam. >> "C:\Users\Dom\Downloads\test.txt
-echo Milczysz, — wszakżeś z Szatanem walczył osobiście? >> "C:\Users\Dom\Downloads\test.txt
-echo Wyzywam Cię uroczyście. >> "C:\Users\Dom\Downloads\test.txt
-echo Nie gardź mną, ja nie jeden, choć sam tu wzniesiony. >> "C:\Users\Dom\Downloads\test.txt
-echo Jestem na ziemi sercem z wielkim ludem zbratan, >> "C:\Users\Dom\Downloads\test.txt
-echo Mam ja za sobą wojska, i mocy, i trony; >> "C:\Users\Dom\Downloads\test.txt
-echo Jeśli ja będę bluźnierca, >> "C:\Users\Dom\Downloads\test.txt
-echo Ja wydam Tobie krwawszą bitwę niźli Szatan: >> "C:\Users\Dom\Downloads\test.txt
-echo On walczył na rozumy, ja wyzwę na serca. >> "C:\Users\Dom\Downloads\test.txt
-echo Jam cierpiał, kochał, w mękach i miłości wzrosłem; >> "C:\Users\Dom\Downloads\test.txt
-echo Kiedyś mnie wydarł osobiste szczęście, >> "C:\Users\Dom\Downloads\test.txt
-echo Na własnej piersi ja skrwawiłem pięście, >> "C:\Users\Dom\Downloads\test.txt
-echo Przeciw Niebu ich nie wzniosłem. >> "C:\Users\Dom\Downloads\test.txt
-echo Teraz duszą jam w moję ojczyznę wcielony; >> "C:\Users\Dom\Downloads\test.txt
-echo Ciałem połknąłem jej duszę, >> "C:\Users\Dom\Downloads\test.txt
-echo Ja i ojczyzna to jedno. >> "C:\Users\Dom\Downloads\test.txt
-echo Nazywam się Milĳon — bo za milĳony >> "C:\Users\Dom\Downloads\test.txt
-echo Kocham i cierpię katusze. >> "C:\Users\Dom\Downloads\test.txt
-echo Patrzę na ojczyznę biedną, >> "C:\Users\Dom\Downloads\test.txt
-echo Jak syn na ojca wplecionego w koło; >> "C:\Users\Dom\Downloads\test.txt
-echo Czuję całego cierpienia narodu, >> "C:\Users\Dom\Downloads\test.txt
-echo Jak matka czuje w łonie bole swego płodu. >> "C:\Users\Dom\Downloads\test.txt
-echo Cierpię, szaleję — a Ty mądrze i wesoło >> "C:\Users\Dom\Downloads\test.txt
-echo Zawsze rządzisz, >> "C:\Users\Dom\Downloads\test.txt
-echo Zawsze sądzisz, >> "C:\Users\Dom\Downloads\test.txt
-echo I mówią, że Ty nie błądzisz! >> "C:\Users\Dom\Downloads\test.txt
-echo Słuchaj, jeśli to prawda, com z wiarą synowską >> "C:\Users\Dom\Downloads\test.txt
-echo Słyszał, na ten świat przychodząc, >> "C:\Users\Dom\Downloads\test.txt
-echo Że Ty kochasz; — jeżeliś Ty kochał świat rodząc, >> "C:\Users\Dom\Downloads\test.txt
-echo Jeśli ku zrodzonemu masz miłość ojcowską; — >> "C:\Users\Dom\Downloads\test.txt
-echo Jeżeli serce czułe było w liczbie zwierząt, >> "C:\Users\Dom\Downloads\test.txt
-echo Któreś Ty w arce zamknął i wyrwał z powodzi; — >> "C:\Users\Dom\Downloads\test.txt
-echo Jeśli to serce nie jest potwór, co się rodzi >> "C:\Users\Dom\Downloads\test.txt
-echo Przypadkiem, ale nigdy lat swych nie dochodzi; — >> "C:\Users\Dom\Downloads\test.txt
-echo Jeśli pod rządem Twoim czułość nie jest bezrząd, >> "C:\Users\Dom\Downloads\test.txt
-echo Jeśli w milĳon ludzi krzyczących «ratunku!”» >> "C:\Users\Dom\Downloads\test.txt
-echo Nie patrzysz jak w zawiłe zrównanie rachunku; — >> "C:\Users\Dom\Downloads\test.txt
-echo Jeśli miłość jest na co w świecie Twym potrzebną >> "C:\Users\Dom\Downloads\test.txt
-echo I nie jest tylko Twoją omyłką liczebną… >> "C:\Users\Dom\Downloads\test.txt
-echo Milczysz! — Jam Ci do głębi serce me otworzył, >> "C:\Users\Dom\Downloads\test.txt
-echo Zaklinam, daj mi władzę: — jedna część jej licha, >> "C:\Users\Dom\Downloads\test.txt
-echo Część tego, co na ziemi osiągnęła pycha, >> "C:\Users\Dom\Downloads\test.txt
-echo Z tą jedną cząstką ileż ja bym szczęścia stworzył! >> "C:\Users\Dom\Downloads\test.txt
-echo Milczysz! — nie dasz dla serca, dajże dla rozumu. — >> "C:\Users\Dom\Downloads\test.txt
-echo Widzisz, żem pierwszy z ludzi i z aniołów tłumu, >> "C:\Users\Dom\Downloads\test.txt
-echo Że Cię znam lepiej niźli Twoje archanioły, >> "C:\Users\Dom\Downloads\test.txt
-echo Wart, żebyś ze mną władzą dzielił się na poły — >> "C:\Users\Dom\Downloads\test.txt
-echo Jeślim nie zgadł, odpowiedz — milczysz! ja nie kłamię. >> "C:\Users\Dom\Downloads\test.txt
-echo Milczysz i ufasz, że masz silne ramię — >> "C:\Users\Dom\Downloads\test.txt
-echo Wiedz, że uczucie spali, czego myśl nie złamie — >> "C:\Users\Dom\Downloads\test.txt
-echo Widzisz to moje ognisko: — uczucie, >> "C:\Users\Dom\Downloads\test.txt
-echo Zbieram je, ściskam, by mocniej pałało, >> "C:\Users\Dom\Downloads\test.txt
-echo Wbĳam w żelazne woli mej okucie, >> "C:\Users\Dom\Downloads\test.txt
-echo Jak nabój w burzące działo. >> "C:\Users\Dom\Downloads\test.txt
-echo Odezwĳ się, — bo strzelę przeciw Twej naturze; >> "C:\Users\Dom\Downloads\test.txt
-echo Jeśli jej w gruzy nie zburzę, >> "C:\Users\Dom\Downloads\test.txt"
-echo To wstrząsnę całym państw Twoich obszarem; >> "C:\Users\Dom\Downloads\test.txt"
-echo Bo wystrzelę głos w całe obręby stworzenia: >> "C:\Users\Dom\Downloads\test.txt"
-echo Ten głos, który z pokoleń pójdzie w pokolenia: >> "C:\Users\Dom\Downloads\test.txt"
-echo Krzyknę, żeś Ty nie ojcem świata, ale… >> "C:\Users\Dom\Downloads\test.txt"
+echo Samotność — cóż po ludziach, czy-m śpiewak dla ludzi? > C:\Users\*Zamień*\Downloads\test.txt"
+echo Gdzie człowiek, co z mej pieśni całą myśl wysłucha, >> "C:\Users\*Zamień*\Downloads\test.txt"
+echo Obejmie okiem wszystkie promienie jej ducha? >> "C:\Users\*Zamień*\Downloads\test.txt"
+echo Nieszczęsny, kto dla ludzi głos i język trudzi: >> "C:\Users\*Zamień*\Downloads\test.txt"
+echo Język kłamie głosowi, a głos myślom kłamie; >> "C:\Users\*Zamień*\Downloads\test.txt"
+echo Myśl z duszy leci bystro, nim się w słowach złamie, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo A słowa myśl pochłoną i tak drżą nad myślą, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jak ziemia nad połkniętą, niewidzialną rzeką. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Z drżenia ziemi czyż ludzie głąb nurtów docieką. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Gdzie pędzi, czy się domyślą? — >> "C:\Users\*Zamień*\Downloads\test.txt 
+echo Uczucie krąży w duszy, rozpala się, żarzy, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jak krew po swych głębokich, niewidomych cieśniach; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ile krwi tylko ludzie widzą w mojej twarzy, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Tyle tylko z mych uczuć dostrzegą w mych pieśniach. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Pieśni ma, tyś jest gwiazdą za granicą świata! >> "C:\Users\*Zamień*\Downloads\test.txt
+echo I wzrok ziemski, do ciebie wysłany za gońca, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Choć szklanne weźmie skrzydła, ciebie nie dolata, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Tylko o twoję mleczną drogę się uderzy; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Domyśla się, że to słońca, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Lecz ich nie zliczy, nie zmierzy. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Wam, pieśni, ludzkie oczy, uszy, niepotrzebne; — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Płyńcie w duszy mej wnętrznościach, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Świećcie na jej wysokościach, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jak strumienie podziemne, jak gwiazdy nadniebne. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ty Boże, ty naturo! dajcie posłuchanie. — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Godna to was muzyka i godne śpiewanie. — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ja mistrz! >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ja mistrz wyciągam dłonie! >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Wyciągam aż w niebiosa i kładę me dłonie >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Na gwiazdach jak na szklannych harmoniki kręgach. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo To nagłym, to wolnym ruchem, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Kręcę gwiazdy moim duchem. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Milĳon tonów płynie; w tonów milĳonie >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Każdy ton ja dobyłem, wiem o każdym tonie; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Zgadzam je, dzielę i łączę, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo I w tęcze, i w akordy, i we strofy plączę, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Rozlewam je we dźwiękach i w błyskawic wstęgach. — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Odjąłem ręce, wzniosłem nad świata krawędzie, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo I kręgi harmoniki wstrzymały się w pędzie. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Sam śpiewam, słyszę me śpiewy — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Długie, przeciągłe jak wichru powiewy, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Przewiewają ludzkiego rodu całe tonie, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jęczą żalem, ryczą burzą, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo I wieki im głucho wtórzą; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo A każdy dźwięk ten razem gra i płonie, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Mam go w uchu, mam go w oku, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jak wiatr, gdy fale kołysze, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Po świstach lot jego słyszę, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Widzę go w szacie obłoku. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Boga, natury godne takie pienie!  >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Pieśń to wielka, pieśń-tworzenie. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Taka pieśń jest siła, dzielność, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Taka pieśń jest nieśmiertelność! >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ja czuję nieśmiertelność, nieśmiertelność tworzę, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Cóż Ty większego mogłeś zrobić — Boże? >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Patrz, jak te myśli dobywam sam z siebie, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Wcielam w słowa, one lecą, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Rozsypują się po niebie, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Toczą się, grają i świecą; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Już dalekie, czuję jeszcze, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ich wdziękami się lubuję, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ich okrągłość dłonią czuję, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ich ruch myślą odgaduję: >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Kocham was, me dzieci wieszcze! >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Myśli moje! gwiazdy moje! >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Czucia moje! wichry moje! >> "C:\Users\*Zamień*\Downloads\test.txt
+echo W pośrodku was jak ojciec wśród rodziny stoję, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Wy wszystkie moje! >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Depcę was, wszyscy poeci, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Wszyscy mędrce i proroki, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Których wielbił świat szeroki. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Gdyby chodzili dotąd śród swych dusznych dzieci, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Gdyby wszystkie pochwały i wszystkie oklaski >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Słyszeli, czuli i za słuszne znali, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo I wszystkie sławy każdodziennej blaski >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Promieniami na wieńcach swoich zapalali; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Z całą pochwał muzyką i wieńców ozdobą, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Zebraną z wieków tyla i z pokoleń tyla, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Nie czuliby własnego szczęścia, własnej mocy >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jak ja dziś czuję w tej samotnej nocy: >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Kiedy sam śpiewam w sobie, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Śpiewam samemu sobie. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Tak! — czuły jestem, silny jestem i rozumny. — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Nigdym nie czuł, jak w tej chwili — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo dziś mój zenit, moc moja dzisiaj się przesili, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo dziś poznam, czym najwyższy, czylim tylko dumny; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo dziś jest chwila przeznaczona, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo dziś najsilniej wytężę duszy mej ramiona — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo To jest chwila Samsona, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Kiedy więzień i ślepy dumał u kolumny. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Zrzucę ciało i tylko jak duch wezmę pióra — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Potrzeba mi lotu, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Wylecę z planet i gwiazd kołowrotu, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Tam dojdę, gdzie graniczą Stwórca i natura.  >> "C:\Users\*Zamień*\Downloads\test.txt
+echo I mam je, mam je, mam — tych skrzydeł dwoje; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Wystarczą: — od zachodu na wschód je rozszerzę, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Lewym o przeszłość, prawym o przyszłość uderzę. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo I dojdę po promieniach uczucia — do Ciebie! >> "C:\Users\*Zamień*\Downloads\test.txt
+echo I zajrzę w uczucia Twoje, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo O Ty! o którym mówią, że czujesz na niebie! >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jam tu, jam przybył, widzisz, jaka ma potęga! >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Aż tu moje skrzydło sięga. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Lecz jestem człowiek, i tam, na ziemi me ciało; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Kochałem tam, w ojczyźnie serce me zostało — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ale ta miłość moja na świecie, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ta miłość nie na jednym spoczęła człowieku >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jak owad na róży kwiecie: >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Nie na jednej rodzinie, nie na jednym wieku. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ja kocham cały naród! — objąłem w ramiona >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Wszystkie przeszłe i przyszłe jego pokolenia, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Przycisnąłem tu do łona, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jak przyjaciel, kochanek, małżonek, jak ojciec: >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Chcę go dźwignąć, uszczęśliwić, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Chcę nim cały świat zadziwić, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Nie mam sposobu i tu przyszedłem go dociec. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Przyszedłem zbrojny całą myśli władzą, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Tej myśli, co niebiosom Twe gromy wydarła, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Śledziła chód Twych planet, głąb morza rozwarła—  >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Mam więcej, tę Moc, której ludzie nie nadadzą, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Mam to uczucie, co się samo w sobie chowa >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jak wulkan, tylko dymi niekiedy przez słowa. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo I Mocy tej nie wziąłem z drzewa edeńskiego, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Z owocu wiadomości złego i dobrego; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Nie z ksiąg ani z opowiadań, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ani z rozwiązania zadań, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ani
+ z czarodziejskich badań. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jam się twórcą urodził: >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Stamtąd przyszły siły moje, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Skąd do Ciebie przyszły Twoje, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Boś i Ty po nie nie chodził: >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Masz, nie boisz się stracić; i ja się nie boję. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Czyś Ty mi dał, czy wziąłem, skąd i Ty masz — oko >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Bystre, potężne: w chwilach mej siły — wysoko >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Kiedy na chmur spojrzę szlaki >> "C:\Users\*Zamień*\Downloads\test.txt
+echo I wędrowne słyszę ptaki, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Żeglujące na ledwie dostrzeżonym skrzydle; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Zechcę i wnet je okiem zatrzymam jak w sidle — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Stado pieśń żałosną dzwoni, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Lecz póki ich nie puszczę, Twój wiatr ich nie zgoni. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Kiedy spojrzę w kometę z całą mocą duszy, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Dopóki na nią patrzę, z miejsca się nie ruszy. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Tylko ludzie skazitelni, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Marni, ale nieśmiertelni, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Nie służą mi, nie znają — nie znają nas obu, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Mnie i Ciebie. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ja na nich szukam sposobu >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Tu, w niebie. >> "C:\Users\*Zamień*\Downloads\test.txt 
+echo Tę władzę, którą mam nad przyrodzeniem, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Chcę wywrzeć na ludzkie dusze, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jak ptaki i jak gwiazdy rządzę mym skinieniem, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Tak bliźnich rozrządzać muszę. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Nie bronią — broń broń odbĳe, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Nie pieśniami — długo rosną, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Nie nauką — prędko gnĳe, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Nie cudami — to zbyt głośno. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Chcę czuciem rządzić, które jest we mnie; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Rządzić jak Ty wszystkimi zawsze i tajemnie: — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Co ja zechcę, niech wnet zgadną, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Spełnią, tym się uszczęśliwią, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo A jeżeli się sprzeciwią, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Niechaj cierpią i przepadną. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Niech ludzie będą dla mnie jak myśli i słowa, >> "C:\Users\*Zamień*\Downloads\test.txt 
+echo Z których, gdy zechcę, pieśni wiąże się budowa; —  >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Mówią, że Ty tak władasz! >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Wiesz, żem myśli nie popsuł, mowy nie umorzył; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jeśli mnie nad duszami równą władzę nadasz, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ja bym mój naród jak pieśń żywą stworzył, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo I większe niżli Ty zrobiłbym dziwo, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Zanuciłbym pieśń szczęśliwą! >> "C:\Users\*Zamień*\Downloads\test.txt 
+echo Daj mi rząd dusz! — Tak gardzę tą martwą budową,  >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Która gmin światem zowie i przywykł ją chwalić, >> "C:\Users\*Zamień*\Downloads\test.txt 
+echo Żem nie próbował dotąd, czyli moje słowo  >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Nie mogłoby jej wnet zwalić. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Lecz czuję w sobie, że gdybym mą wolę >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ścisnął, natężył i razem wyświecił, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Może bym sto gwiazd zgasił, a drugie sto wzniecił — >> "C:\Users\*Zamień*\Downloads\test.txt 
+echo Bo jestem nieśmiertelny! i w stworzenia kole >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Są inni nieśmiertelni; — wyższych nie spotkałem — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Najwyższy na niebiosach! — Ciebie tu szukałem, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ja najwyższy z czujących na ziemnym padole. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Nie spotkałem Cię dotąd — żeś Ty jest, zgaduję; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Niech Cię spotkam i niechaj Twą wyższość uczuję — >> "C:\Users\*Zamień*\Downloads\test.txt 
+echo Ja chcę władzy, daj mi ją, lub wskaż do niej drogę! >> "C:\Users\*Zamień*\Downloads\test.txt
+echo O prorokach, dusz władcach, że byli, słyszałem, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo I wierzę; lecz co oni mogli, to ja mogę, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ja chcę mieć władzę, jaką Ty posiadasz, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ja chcę duszami władać, jak Ty nimi władasz. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Milczysz, milczysz! wiem teraz, jam Cię teraz zbadał, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Zrozumiałem, coś Ty jest i jakeś Ty władał. — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Kłamca, kto Ciebie nazywał miłością, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ty jesteś tylko mądrością. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ludzie myślą, nie sercem, Twych dróg się dowiedzą; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Myślą, nie sercem, składy broni Twej wyśledzą — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ten tylko, kto się wrył w księgi,  >> "C:\Users\*Zamień*\Downloads\test.txt
+echo W metal, w liczbę, w trupie ciało, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Temu się tylko udało >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Przywłaszczyć część Twej potęgi. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Znajdzie truciznę, proch, parę, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Znajdzie blaski, dymy, huki, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Znajdzie prawność, i złą wiarę >> "C:\Users\*Zamień*\Downloads\test.txt 
+echo Na mędrki i na nieuki. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Myślom oddałeś świata użycie, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Serca zostawiasz na wiecznej pokucie, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Dałeś mnie najkrótsze życie >> "C:\Users\*Zamień*\Downloads\test.txt
+echo I najmocniejsze uczucie. — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Czym jest me czucie? >> "C:\Users\*Zamień*\Downloads\test.txt 
+echo Ach, iskrą tylko!  >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Czym jest me życie? >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ach, jedną chwilką! >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Lecz te, co jutro rykną, czym są dzisiaj gromy? >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Iskrą tylko. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Czym jest wieków ciąg cały, mnie z dziejów wiadomy?  >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jedną chwilką. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Z czego wychodzi cały człowiek, mały światek? >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Z iskry tylko. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Czym jest śmierć, co rozprószy myśli mych dostatek? >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jedną chwilką. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Czym był On, póki światy trzymał w swoim łonie? Brat >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Iskrą tylko. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Czym będzie wieczność świata, gdy On go pochłoni >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jedną chwilką. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Chwila i iskra, gdy się przedłuża, rozpala — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Stwarza i zwala. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Śmiało, śmiało! tę chwilę rozdłużmy, rozdalmy, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Śmiało, śmiało! tę iskrę rozniećmy, rozpalmy — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Teraz — dobrze — tak. Jeszcze raz Ciebie wyzywam, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jeszcze po przyjacielsku duszę Ci odkrywam. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Milczysz, — wszakżeś z Szatanem walczył osobiście? >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Wyzywam Cię uroczyście. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Nie gardź mną, ja nie jeden, choć sam tu wzniesiony. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jestem na ziemi sercem z wielkim ludem zbratan, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Mam ja za sobą wojska, i mocy, i trony; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jeśli ja będę bluźnierca, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ja wydam Tobie krwawszą bitwę niźli Szatan: >> "C:\Users\*Zamień*\Downloads\test.txt
+echo On walczył na rozumy, ja wyzwę na serca. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jam cierpiał, kochał, w mękach i miłości wzrosłem; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Kiedyś mnie wydarł osobiste szczęście, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Na własnej piersi ja skrwawiłem pięście, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Przeciw Niebu ich nie wzniosłem. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Teraz duszą jam w moję ojczyznę wcielony; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ciałem połknąłem jej duszę, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Ja i ojczyzna to jedno. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Nazywam się Milĳon — bo za milĳony >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Kocham i cierpię katusze. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Patrzę na ojczyznę biedną, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jak syn na ojca wplecionego w koło; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Czuję całego cierpienia narodu, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jak matka czuje w łonie bole swego płodu. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Cierpię, szaleję — a Ty mądrze i wesoło >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Zawsze rządzisz, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Zawsze sądzisz, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo I mówią, że Ty nie błądzisz! >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Słuchaj, jeśli to prawda, com z wiarą synowską >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Słyszał, na ten świat przychodząc,
+ >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Że Ty kochasz; — jeżeliś Ty kochał świat rodząc, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jeśli ku zrodzonemu masz miłość ojcowską; — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jeżeli serce czułe było w liczbie zwierząt, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Któreś Ty w arce zamknął i wyrwał z powodzi; — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jeśli to serce nie jest potwór, co się rodzi >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Przypadkiem, ale nigdy lat swych nie dochodzi; — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jeśli pod rządem Twoim czułość nie jest bezrząd, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jeśli w milĳon ludzi krzyczących «ratunku!”» >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Nie patrzysz jak w zawiłe zrównanie rachunku; — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jeśli miłość jest na co w świecie Twym potrzebną >> "C:\Users\*Zamień*\Downloads\test.txt
+echo I nie jest tylko Twoją omyłką liczebną… >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Milczysz! — Jam Ci do głębi serce me otworzył, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Zaklinam, daj mi władzę: — jedna część jej licha, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Część tego, co na ziemi osiągnęła pycha, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Z tą jedną cząstką ileż ja bym szczęścia stworzył! >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Milczysz! — nie dasz dla serca, dajże dla rozumu. — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Widzisz, żem pierwszy z ludzi i z aniołów tłumu, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Że Cię znam lepiej niźli Twoje archanioły, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Wart, żebyś ze mną władzą dzielił się na poły — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jeślim nie zgadł, odpowiedz — milczysz! ja nie kłamię. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Milczysz i ufasz, że masz silne ramię — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Wiedz, że uczucie spali, czego myśl nie złamie — >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Widzisz to moje ognisko: — uczucie, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Zbieram je, ściskam, by mocniej pałało, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Wbĳam w żelazne woli mej okucie, >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jak nabój w burzące działo. >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Odezwĳ się, — bo strzelę przeciw Twej naturze; >> "C:\Users\*Zamień*\Downloads\test.txt
+echo Jeśli jej w gruzy nie zburzę, >> "C:\Users\*Zamień*\Downloads\test.txt"
+echo To wstrząsnę całym państw Twoich obszarem; >> "C:\Users\*Zamień*\Downloads\test.txt"
+echo Bo wystrzelę głos w całe obręby stworzenia: >> "C:\Users\*Zamień*\Downloads\test.txt"
+echo Ten głos, który z pokoleń pójdzie w pokolenia: >> "C:\Users\*Zamień*\Downloads\test.txt"
+echo Krzyknę, żeś Ty nie ojcem świata, ale… >> "C:\Users\*Zamień*\Downloads\test.txt"
 cls
 goto start
 :start
 echo Znaleziono, uwaga uwaga...  
-for /f  %%C in ('find /V /C "" ^< "C:\Users\Dom\Downloads\test.txt"') do set konradowe=%%C    
+for /f  %%C in ('find /V /C "" ^< "C:\Users\*Zamień*\Downloads\test.txt"') do set konradowe=%%C    
 set /a random_number=%RANDOM% * lines / 32768 + 1, skiplines=random_number-1
 echo Znaleziono %konradowe% linijek! Pokażmy niektóre z nich...
 pause
 goto :gatewayKonrad
 :gatewayKonrad
 cls
-Set "proxlist=C:\Users\Dom\Downloads\test.txt"
+Set "proxlist=C:\Users\*Zamień*\Downloads\test.txt"
 For /F "Tokens=1* Delims=:" %%a In ('FindStr/N "^" "%proxlist%"') Do (
     Set "line[%%a]=%%b"
     Set "total=%%a"
