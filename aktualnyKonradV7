@@ -329,6 +329,7 @@ echo ~~~~~~~~~~~~~~~~~~~~~~~~~
 Echo=%randline%
 echo ~~~~~~~~~~~~~~~~~~~~~~~~~
 pause
+goto gatewayKonrad
 :SetRand
 Set/A "rand=(%RANDOM%%%total)+1"
 Call Set "randline=%%line[%rand%]%%"
